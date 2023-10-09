@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "element-plus": "^2.3.14",
+    "moment": "^2.29.4"
+  }
+}
